@@ -1,0 +1,4 @@
+flask==2.1.2
+werkzeug==2.2.2
+black
+# flask_restx==1.0.5
